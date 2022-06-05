@@ -30,6 +30,6 @@ public class ArrayMax
        return max;
    }
    
-   
+   System.out.println(" this is inside fork");
    
 }
