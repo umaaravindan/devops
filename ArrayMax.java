@@ -30,6 +30,10 @@ public class ArrayMax
        return max;
    }
    
+
    System.out.println("bye ");
+
+   System.out.println("Check forking");
+
    
 }
